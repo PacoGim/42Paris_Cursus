@@ -8,57 +8,96 @@ Ce repository centralise mes projets réalisés tout au long de ma formation, ch
 
 ## Projets Réalisés à 42
 
-<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px;">
-	<a href="https://github.com/PacoGim/transcendence_42" style="display:flex; flex-direction:column; align-items:center;">
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; text-align:center;">
+<div style="display:flex; flex-direction:column; align-items:center;">
+	<a href="https://github.com/PacoGim/transcendence_42">
 		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_transcendencem.png" width="100">
-		<span>ft_transcendence</span>
+		<br>
+		ft_transcendence
 	</a>
-	<a href="https://github.com/PacoGim/WebServ" style="display:flex; flex-direction:column; align-items:center;">
+</div>
+<div style="display:flex; flex-direction:column; align-items:center;">
+	<a href="https://github.com/PacoGim/WebServ">
 		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/webservm.png" width="100">
-		<span>webserv</span>
+		<br>
+		webserv
 	</a>
-	<a href="https://github.com/PacoGim/minishell" style="display:flex; flex-direction:column; align-items:center;">
+</div>
+<div style="display:flex; flex-direction:column; align-items:center;">
+	<a href="https://github.com/PacoGim/minishell">
 		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/minishellm.png" width="100">
-		<span>minishell</span>
+		<br>
+		minishell
 	</a>
-	<a href="https://github.com/PacoGim/cub3d" style="display:flex; flex-direction:column; align-items:center;">
+</div>
+<div style="display:flex; flex-direction:column; align-items:center;">
+	<a href="https://github.com/PacoGim/cub3d">
 		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cub3dm.png" width="100">
-		<span>cub3d</span>
+		<br>
+		cub3d
 	</a>
-	<a href="https://github.com/PacoGim/inception" style="display:flex; flex-direction:column; align-items:center;">
+</div>
+<div style="display:flex; flex-direction:column; align-items:center;">
+	<a href="https://github.com/PacoGim/inception">
 		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/inceptionm.png" width="100">
-		<span>inception</span>
+		<br>
+		inception
 	</a>
-	<a href="https://github.com/PacoGim/CPP" style="display:flex; flex-direction:column; align-items:center;">
+</div>
+<div style="display:flex; flex-direction:column; align-items:center;">
+	<a href="https://github.com/PacoGim/CPP">
 		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cppm.png" width="100">
-		<span>C++</span>
+		<br>
+		C++
 	</a>
-	<a href="https://github.com/PacoGim/philosophers" style="display:flex; flex-direction:column; align-items:center;">
+</div>
+<div style="display:flex; flex-direction:column; align-items:center;">
+	<a href="https://github.com/PacoGim/philosophers">
 		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/philosophersn.png" width="100">
-		<span>philosophers</span>
+		<br>
+		philosophers
 	</a>
-	<a href="https://github.com/PacoGim/so_long" style="display:flex; flex-direction:column; align-items:center;">
+</div>
+<div style="display:flex; flex-direction:column; align-items:center;">
+	<a href="https://github.com/PacoGim/so_long">
 		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/so_longn.png" width="100">
-		<span>so_long</span>
+		<br>
+		so_long
 	</a>
-	<a href="https://github.com/PacoGim/push_swap" style="display:flex; flex-direction:column; align-items:center;">
+</div>
+<div style="display:flex; flex-direction:column; align-items:center;">
+	<a href="https://github.com/PacoGim/push_swap">
 		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/push_swapn.png" width="100">
-		<span>push_swap</span>
+		<br>
+		push_swap
 	</a>
-	<a href="https://github.com/PacoGim/pipex" style="display:flex; flex-direction:column; align-items:center;">
+</div>
+<div style="display:flex; flex-direction:column; align-items:center;">
+	<a href="https://github.com/PacoGim/pipex">
 		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/pipexm.png" width="100">
-		<span>pipex</span>
+		<br>
+		pipex
 	</a>
-	<a href="https://github.com/PacoGim/ft_printf" style="display:flex; flex-direction:column; align-items:center;">
+</div>
+<div style="display:flex; flex-direction:column; align-items:center;">
+	<a href="https://github.com/PacoGim/ft_printf">
 		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_printfm.png" width="100">
-		<span>ft_printf</span>
+		<br>
+		ft_printf
 	</a>
-	<a href="https://github.com/PacoGim/get_next_line" style="display:flex; flex-direction:column; align-items:center;">
+</div>
+<div style="display:flex; flex-direction:column; align-items:center;">
+	<a href="https://github.com/PacoGim/get_next_line">
 		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/get_next_linem.png" width="100">
-		<span>get_next_line</span>
+		<br>
+		get_next_line
 	</a>
-	<a href="https://github.com/PacoGim/Libft" style="display:flex; flex-direction:column; align-items:center;">
+</div>
+<div style="display:flex; flex-direction:column; align-items:center;">
+	<a href="https://github.com/PacoGim/Libft">
 		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/libftm.png" width="100">
-		<span>libft</span>
+		<br>
+		libft
 	</a>
+</div>
 </div>
